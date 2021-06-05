@@ -19,6 +19,7 @@ Este repositório tem os códigos e dataset utilizados no **workshop de python b
 4. [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true) 
 
 *P.S: No workshop foi utilizado a ferramenta online Google Colab, mas caso queira você pode utilizar outras ferramentas para rodar o código, como por exemplo o [Anaconda](https://docs.anaconda.com/anaconda/install/)*
+
 **Caso você nunca mexeu com o github, fizemos um vídeo abrindo no Anaconda os códigos que a instrutora do workshop de ML fez, [clique aqui.](https://youtu.be/I9ZOiTf5d4U)**
 
 <a name="google-colab"></a>
