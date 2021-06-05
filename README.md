@@ -30,6 +30,7 @@ O Google Colab fornece todo o ambiente que pedimos para vocês instalarem de for
 <img src="https://github.com/aigirlsbr/Workshop-Machine-Learning/blob/main/figures/Captura%20de%20Tela%202021-04-04%20a%CC%80s%2014.41.01.png" width=600px>
 
 Selecione o notebook da instrutora que você quer rodar!
+
 <img src="https://github.com/aigirlsbr/Workshop-Machine-Learning/blob/main/figures/Captura%20de%20Tela%202021-04-04%20a%CC%80s%2014.41.55.png" width=600px>
 
 <img src="https://github.com/aigirlsbr/Workshop-Machine-Learning/blob/main/figures/Captura%20de%20Tela%202021-04-04%20a%CC%80s%2014.42.24.png" width=600px>
